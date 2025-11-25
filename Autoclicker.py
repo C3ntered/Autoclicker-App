@@ -23,7 +23,7 @@ def STOP():
     go = False
 
 window = tk.Tk()
-window.title("Kai's Crappy Autoclicker")
+window.title("Centered's Crappy Autoclicker")
 window.geometry("600x400")
 label = tk.Label(window, text="Hello, this is an autoclicker specified for MC!")
 start = tk.Button(window, text="Start", command = STPressed)
